@@ -1,8 +1,3 @@
-/*
-Created by Alex Klibisz, aklibisz@utk.edu
-February 2015
-*/
-
 var a;
 a = angular.module("dualmultiselect", []), a.directive("dualmultiselect", [function() {
 	return {
